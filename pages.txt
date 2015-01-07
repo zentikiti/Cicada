@@ -1,0 +1,6 @@
+File lists pages being worked on, and by who.
+
+Format:
+Page # - Solver(preferably irc handle)
+
+1-zentikiti
